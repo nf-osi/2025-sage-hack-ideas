@@ -7,4 +7,5 @@ tracking space for virtual hackathon ideas
 | Title | Description |
 |-------|-------------|
 | [idea: fancy landing page for rddc](https://github.com/nf-osi/2025-sage-hack-ideas/issues/3) | We could spend some time building a snazzy-looking landing page for the rare disease data commons... |
+| [idea: build and deploy agentic workflow for bringing old data portal annotations "up to spec"](https://github.com/nf-osi/2025-sage-hack-ideas/issues/6) | requirements: - automated review and change proposal - HITL review of proposals - automated... |
 <!-- IDEAS_TABLE_END -->
