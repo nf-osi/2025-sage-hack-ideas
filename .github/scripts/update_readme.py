@@ -79,13 +79,26 @@ def update_readme():
     table_content = content[start_idx:end_idx].strip()
     
     # Parse existing rows and check if this issue is already in the table
+    # Keep track of table header and separator separately
+    table_lines = table_content.split('\n') if table_content else []
+    table_header = []
     existing_rows = []
-    if table_content:
-        for line in table_content.split('\n'):
-            line = line.strip()
-            # Skip empty lines, separator rows (containing only |, -, and spaces)
-            if line and line.startswith('|') and not re.match(r'^[\|\-\s]+$', line):
-                existing_rows.append(line)
+    
+    for line in table_lines:
+        line_stripped = line.strip()
+        if not line_stripped:
+            continue
+        # Detect header and separator rows
+        if re.match(r'^[\|\-\s]+$', line_stripped):
+            table_header.append(line_stripped)  # This is the separator row
+        elif line_stripped.startswith('|'):
+            # First non-separator row is likely the header if we don't have it yet
+            if not table_header or len(table_header) == 0:
+                table_header.append(line_stripped)  # This is the header row
+            elif len(table_header) == 1:
+                table_header.append(line_stripped)  # This is the separator after header
+            else:
+                existing_rows.append(line_stripped)  # This is a data row
     
     # Check if this issue already exists in the table
     issue_pattern = f"/issues/{issue_number}"
@@ -104,8 +117,18 @@ def update_readme():
         # Add the new row
         existing_rows.append(new_row)
     
-    # Rebuild the table content
-    new_table_content = '\n' + '\n'.join(existing_rows) + '\n'
+    # Rebuild the table content with header, separator, and data rows
+    if not table_header:
+        # If no header found, create default table structure
+        table_header = [
+            '| Title | Description |',
+            '|-------|-------------|'
+        ]
+    
+    new_table_lines = table_header.copy()
+    new_table_lines.extend(existing_rows)
+    
+    new_table_content = '\n' + '\n'.join(new_table_lines) + '\n'
     
     # Update the README content
     new_content = (
