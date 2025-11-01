@@ -1,6 +1,8 @@
 # 2025-sage-hack-ideas
 tracking space for virtual hackathon ideas
 
+to propose a project idea, file an issue with the prefix `idea:` in the issue title, it will automatically be added to the readme
+
 ## Ideas
 
 <!-- IDEAS_TABLE_START -->
