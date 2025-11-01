@@ -12,4 +12,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: build and deploy agentic workflow for bringing old data portal annotations "up to spec"](https://github.com/nf-osi/2025-sage-hack-ideas/issues/6) | requirements: - automated review and change proposal - HITL review of proposals - automated... |
 | [idea: "Data Graveyard" Rescue System](https://github.com/nf-osi/2025-sage-hack-ideas/issues/7) | Create a detection and intervention system for identifying datasets that are at risk of becoming... |
 | [idea: Automated Data Quality Scoring with LLMs](https://github.com/nf-osi/2025-sage-hack-ideas/issues/9) | Use LLMs to automatically assess the quality and completeness of study documentation, metadata, and... |
+| [idea: Portal Performance "Chaos Engineering"](https://github.com/nf-osi/2025-sage-hack-ideas/issues/8) | Intentionally stress-test the portal with realistic but extreme scenarios. What happens when... |
 <!-- IDEAS_TABLE_END -->
