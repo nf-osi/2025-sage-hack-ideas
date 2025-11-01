@@ -18,4 +18,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Data Contributor "Stat Sheet"](https://github.com/nf-osi/2025-sage-hack-ideas/issues/12) | Like GitHub's contribution graphs, create beautiful visualizations showing a researcher's open... |
 | [idea: Error Message Empathy Rewrite](https://github.com/nf-osi/2025-sage-hack-ideas/issues/13) | Go through every error message, validation failure, and confusing state in the portal and rewrite... |
 | [idea: Portal Archaeology](https://github.com/nf-osi/2025-sage-hack-ideas/issues/14) | Interview the longest-tenured team members and extract their "tribal knowledge" - the unwritten... |
+| [idea: Rapid User Testing Game](https://github.com/nf-osi/2025-sage-hack-ideas/issues/15) | Turn user testing into a fun, gamified activity. Create a format where team members rotate being... |
 <!-- IDEAS_TABLE_END -->
