@@ -23,4 +23,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Break-Glass Procedures Manual](https://github.com/nf-osi/2025-sage-hack-ideas/issues/17) | Document what to do in various "oh shit" scenarios: data breach discovered, primary funder... |
 | [idea: The Anti-Portal](https://github.com/nf-osi/2025-sage-hack-ideas/issues/18) | Do the opposite of good UX. Intentionally design the worst possible user experience for data... |
 | [idea: Support Ticket Archeology](https://github.com/nf-osi/2025-sage-hack-ideas/issues/19) | Mine your support email, Slack threads, and helpdesk tickets for patterns. Categorize every... |
+| [idea: The Platform Team Wishlist Workshop](https://github.com/nf-osi/2025-sage-hack-ideas/issues/20) | Gather portal teams and create a prioritized, collaborative wishlist for Synapse platform... |
 <!-- IDEAS_TABLE_END -->
