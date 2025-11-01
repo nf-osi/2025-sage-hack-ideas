@@ -93,7 +93,7 @@ def update_readme():
             table_header.append(line_stripped)  # This is the separator row
         elif line_stripped.startswith('|'):
             # First non-separator row is likely the header if we don't have it yet
-            if not table_header or len(table_header) == 0:
+            if not table_header:
                 table_header.append(line_stripped)  # This is the header row
             elif len(table_header) == 1:
                 table_header.append(line_stripped)  # This is the separator after header
@@ -125,8 +125,7 @@ def update_readme():
             '|-------|-------------|'
         ]
     
-    new_table_lines = table_header.copy()
-    new_table_lines.extend(existing_rows)
+    new_table_lines = table_header + existing_rows
     
     new_table_content = '\n' + '\n'.join(new_table_lines) + '\n'
     
