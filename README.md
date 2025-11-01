@@ -24,4 +24,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: The Anti-Portal](https://github.com/nf-osi/2025-sage-hack-ideas/issues/18) | Do the opposite of good UX. Intentionally design the worst possible user experience for data... |
 | [idea: Support Ticket Archeology](https://github.com/nf-osi/2025-sage-hack-ideas/issues/19) | Mine your support email, Slack threads, and helpdesk tickets for patterns. Categorize every... |
 | [idea: The Platform Team Wishlist Workshop](https://github.com/nf-osi/2025-sage-hack-ideas/issues/20) | Gather portal teams and create a prioritized, collaborative wishlist for Synapse platform... |
+| [idea: The Sage Skills Matrix](https://github.com/nf-osi/2025-sage-hack-ideas/issues/21) | Create a comprehensive skills inventory across all Sage teams. Map who knows what: Python, R,... |
 <!-- IDEAS_TABLE_END -->
