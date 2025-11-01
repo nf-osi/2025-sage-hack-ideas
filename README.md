@@ -14,4 +14,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Automated Data Quality Scoring with LLMs](https://github.com/nf-osi/2025-sage-hack-ideas/issues/9) | Use LLMs to automatically assess the quality and completeness of study documentation, metadata, and... |
 | [idea: Portal Performance "Chaos Engineering"](https://github.com/nf-osi/2025-sage-hack-ideas/issues/8) | Intentionally stress-test the portal with realistic but extreme scenarios. What happens when... |
 | [idea: Incident Response Playbook](https://github.com/nf-osi/2025-sage-hack-ideas/issues/10) | Write detailed runbooks for realistic disaster scenarios: data breach, ransomware attack, rogue... |
+| [idea: Synapse/Portal dark mode](https://github.com/nf-osi/2025-sage-hack-ideas/issues/11) | The process of thinking through every color, contrast ratio, and visual element forces you to... |
 <!-- IDEAS_TABLE_END -->
