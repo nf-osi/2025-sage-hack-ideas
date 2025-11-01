@@ -16,4 +16,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Incident Response Playbook](https://github.com/nf-osi/2025-sage-hack-ideas/issues/10) | Write detailed runbooks for realistic disaster scenarios: data breach, ransomware attack, rogue... |
 | [idea: Synapse/Portal dark mode](https://github.com/nf-osi/2025-sage-hack-ideas/issues/11) | The process of thinking through every color, contrast ratio, and visual element forces you to... |
 | [idea: Data Contributor "Stat Sheet"](https://github.com/nf-osi/2025-sage-hack-ideas/issues/12) | Like GitHub's contribution graphs, create beautiful visualizations showing a researcher's open... |
+| [idea: Error Message Empathy Rewrite](https://github.com/nf-osi/2025-sage-hack-ideas/issues/13) | Go through every error message, validation failure, and confusing state in the portal and rewrite... |
 <!-- IDEAS_TABLE_END -->
