@@ -24,7 +24,13 @@ def get_preview_text(body, max_length=100):
     
     # Truncate to max_length
     if len(preview) > max_length:
-        preview = preview[:max_length].rsplit(' ', 1)[0] + '...'
+        truncated = preview[:max_length]
+        # Try to break at a word boundary
+        parts = truncated.rsplit(' ', 1)
+        if len(parts) > 1:
+            preview = parts[0] + '...'
+        else:
+            preview = truncated + '...'
     
     return preview.strip()
 
@@ -77,7 +83,8 @@ def update_readme():
     if table_content:
         for line in table_content.split('\n'):
             line = line.strip()
-            if line and line.startswith('|'):
+            # Skip empty lines, separator rows (containing only |, -, and spaces)
+            if line and line.startswith('|') and not re.match(r'^[\|\-\s]+$', line):
                 existing_rows.append(line)
     
     # Check if this issue already exists in the table
