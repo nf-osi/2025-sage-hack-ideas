@@ -21,4 +21,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Rapid User Testing Game](https://github.com/nf-osi/2025-sage-hack-ideas/issues/15) | Turn user testing into a fun, gamified activity. Create a format where team members rotate being... |
 | [idea: Contributor Thank-You Automation](https://github.com/nf-osi/2025-sage-hack-ideas/issues/16) | Build a system that automatically detects meaningful moments and generates personalized thank-you... |
 | [idea: Break-Glass Procedures Manual](https://github.com/nf-osi/2025-sage-hack-ideas/issues/17) | Document what to do in various "oh shit" scenarios: data breach discovered, primary funder... |
+| [idea: The Anti-Portal](https://github.com/nf-osi/2025-sage-hack-ideas/issues/18) | Do the opposite of good UX. Intentionally design the worst possible user experience for data... |
 <!-- IDEAS_TABLE_END -->
