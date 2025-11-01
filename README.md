@@ -22,4 +22,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Contributor Thank-You Automation](https://github.com/nf-osi/2025-sage-hack-ideas/issues/16) | Build a system that automatically detects meaningful moments and generates personalized thank-you... |
 | [idea: Break-Glass Procedures Manual](https://github.com/nf-osi/2025-sage-hack-ideas/issues/17) | Document what to do in various "oh shit" scenarios: data breach discovered, primary funder... |
 | [idea: The Anti-Portal](https://github.com/nf-osi/2025-sage-hack-ideas/issues/18) | Do the opposite of good UX. Intentionally design the worst possible user experience for data... |
+| [idea: Support Ticket Archeology](https://github.com/nf-osi/2025-sage-hack-ideas/issues/19) | (brainstorming help from Claude) Mine your support email, Slack threads, and helpdesk tickets for... |
 <!-- IDEAS_TABLE_END -->
