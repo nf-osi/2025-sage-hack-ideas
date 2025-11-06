@@ -27,4 +27,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: The Sage Skills Matrix](https://github.com/nf-osi/2025-sage-hack-ideas/issues/21) | Create a comprehensive skills inventory across all Sage teams. Map who knows what: Python, R,... |
 | [idea: The Great Documentation Purge](https://github.com/nf-osi/2025-sage-hack-ideas/issues/22) | Go through all documentation and mark each page: "Still accurate," "Needs update," "Outdated -... |
 | [idea: Automated evidence synthesis for NF Data Portal (papers + datasets → consensus summaries)](https://github.com/nf-osi/2025-sage-hack-ideas/issues/23) | Automated evidence synthesis for NF Data Portal (papers + datasets → consensus summaries) Problem... |
+| [idea: Automated web scraping and cataloging of NF research tools](https://github.com/nf-osi/2025-sage-hack-ideas/issues/24) | Note: generated with assistance from Claude AI Problem Researchers waste time hunting across... |
 <!-- IDEAS_TABLE_END -->
