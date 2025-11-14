@@ -29,4 +29,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Automated evidence synthesis for NF Data Portal (papers + datasets → consensus summaries)](https://github.com/nf-osi/2025-sage-hack-ideas/issues/23) | Automated evidence synthesis for NF Data Portal (papers + datasets → consensus summaries) Problem... |
 | [idea: Automated web scraping and cataloging of NF research tools](https://github.com/nf-osi/2025-sage-hack-ideas/issues/24) | Note: generated with assistance from Claude AI Problem Researchers waste time hunting across... |
 | [idea: Integrated Project Triage Dashboard: Jira + Synapse + GitHub](https://github.com/nf-osi/2025-sage-hack-ideas/issues/25) | Created with AI assistance from Claude Problem Project deadlines and priorities are managed across... |
+| [idea: AI system for NF governance with potential probabilistic reasoning](https://github.com/nf-osi/2025-sage-hack-ideas/issues/26) | We should prototype a system that represents governance requirements for data protection and... |
 <!-- IDEAS_TABLE_END -->
