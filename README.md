@@ -31,4 +31,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Integrated Project Triage Dashboard: Jira + Synapse + GitHub](https://github.com/nf-osi/2025-sage-hack-ideas/issues/25) | Created with AI assistance from Claude Problem Project deadlines and priorities are managed across... |
 | [idea: AI system for NF governance with potential probabilistic reasoning](https://github.com/nf-osi/2025-sage-hack-ideas/issues/26) | We should prototype a system that represents governance requirements for data protection and... |
 | [idea: automated integration of NF research tools into metadata schema](https://github.com/nf-osi/2025-sage-hack-ideas/issues/27) | Generated with AI assistance from Claude Problem Researchers manually enter metadata for NF... |
+| [idea: Userguide overlay for Synapse](https://github.com/nf-osi/2025-sage-hack-ideas/issues/28) | An overlay on synapse.org or nf.synapse.org that helps the user know how to use the platform the... |
 <!-- IDEAS_TABLE_END -->
