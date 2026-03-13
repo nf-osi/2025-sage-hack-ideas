@@ -34,4 +34,5 @@ to propose a project idea, file an issue with the prefix `idea:` in the issue ti
 | [idea: Userguide overlay for Synapse](https://github.com/nf-osi/2025-sage-hack-ideas/issues/28) | An overlay on synapse.org or nf.synapse.org that helps the user know how to use the platform the... |
 | [idea: personal Synapse dashboards for contributors](https://github.com/nf-osi/2025-sage-hack-ideas/issues/29) | Generated with AI assistance from Claude Prompt: Draft another github issue to add a dashboard... |
 | [idea: synapse wrapped](https://github.com/nf-osi/2025-sage-hack-ideas/issues/30) | a la spotify wrapped |
+| [idea: Synapse study summary report for funders and contributors](https://github.com/nf-osi/2025-sage-hack-ideas/issues/31) | Create a tool / interface that generates a funder-friendly study summary report for a Synapse... |
 <!-- IDEAS_TABLE_END -->
